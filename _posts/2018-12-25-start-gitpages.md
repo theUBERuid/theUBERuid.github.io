@@ -40,7 +40,7 @@ tags:   Git
 
 #### 최초 설정(필수)
 
-{% highlight markdown %}
+{% highlight bash %}
 	$ git config --global user.name 'user name'
 	$ git config --global user.email 'user.email@example.com'
 {% endhighlight %}
