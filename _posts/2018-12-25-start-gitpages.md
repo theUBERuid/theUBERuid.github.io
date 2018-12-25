@@ -40,9 +40,9 @@ tags:   Git
 
 #### 최초 설정(필수)
 
-{% highlight bash %}
-	$ git config --global user.name 'user name'
-	$ git config --global user.email 'user.email@example.com'
+{% highlight sh %}
+$ git config --global user.name 'user name'
+$ git config --global user.email 'user.email@example.com'
 {% endhighlight %}
 
 #### 기본 명령어
@@ -82,7 +82,7 @@ tags:   Git
 
 #### 구조
 
-가장 기본적인 Jekyll 사이트 구조
+가장 기본적인 Jekyll 폴더 구조
 
 {% highlight sh %}
 ├── _config.yml
