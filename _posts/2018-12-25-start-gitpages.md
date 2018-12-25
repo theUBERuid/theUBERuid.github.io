@@ -40,8 +40,10 @@ tags:   Git
 
 #### 최초 설정(필수)
 
+{% highlight markdown %}
 	$ git config --global user.name 'user name'
 	$ git config --global user.email 'user.email@example.com'
+{% endhighlight %}
 
 #### 기본 명령어
 
@@ -82,7 +84,7 @@ tags:   Git
 
 가장 기본적인 Jekyll 사이트 구조
 
-```sh
+{% highlight sh %}
 ├── _config.yml
 ├── _data
 |   └── members.yml
@@ -104,7 +106,7 @@ tags:   Git
 ├── _site
 ├── .jekyll-metadata
 └── index.html
-```
+{% endhighlight %}
 
 #### 포스팅하기
 
@@ -117,20 +119,20 @@ tags:   Git
 
 - 머리말 설정
 
-```markdown
+{% highlight markdown %}
 ---
 layout: post
 title: "Welcome to Jekyll!"
 date: 2018-12-25 16:16:01 -0600
 categories: jekyll update
 ---
-```
+{% endhighlight %}
 
 ##### 3. 본문 작성
 
 - 마크다운을 이용해서 본문 작성
 
-```markdown
+{% highlight markdown %}
 # 제목
 
 ## 부제목
@@ -140,7 +142,7 @@ categories: jekyll update
 - 내용 C
 
 [링크제목](https://링크주소.com/)
-```
+{% endhighlight %}
 
 > [jekyll themes download](http://jekyllthemes.org/)
 
