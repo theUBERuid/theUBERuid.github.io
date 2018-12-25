@@ -59,10 +59,7 @@ $ git config --global user.email 'user.email@example.com'
 | 서버에서 다운로드 |  `git clone <repository> <directory>` <br> `git clone https://github.com/theUBERuid/theUBERuid.github.io.git theUBERuid`|
 | 변경 이력 보기 |  `git log` |
 
-
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
-
-
 
 ## :book: jekyll을 사용하여 블로그 만들기
 
@@ -77,8 +74,6 @@ $ git config --global user.email 'user.email@example.com'
 > 여기서 **동적**이란 화려한 **시각적 효과**나 **움직임**을 지칭하는 단어가 **아니다**. 좀 더 정확히 말하자면 **HTML 페이지**를 클라이언트의 요청에 따라서 **실시간으로 생성해서 보내준다**는 의미를 가지고 있다. 즉 **서버는 완성된 HTML을 가지고 있지 않다**. 거의 완성되어있거나, 심지어는 아무것도 없이도 **요청에 따라 실시간으로 완성된 문서**를 다시 보내준다.
 
 > [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
-
-
 
 #### 구조
 
@@ -118,10 +113,6 @@ $ git config --global user.email 'user.email@example.com'
 ##### 2. 머리말 설정
 
 - 머리말 설정
-
-```js
-var aa = aa;
-```
 
 {% highlight markdown %}
 ---
