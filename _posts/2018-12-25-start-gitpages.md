@@ -3,7 +3,7 @@ layout: post
 title: "Git 블로그 시작하기"
 description:
 headline:
-modified: "2018-12-25"
+modified: "2018-12-25 20:00"
 category: git
 tags: [git, github, jekyll]
 imagefeature:
