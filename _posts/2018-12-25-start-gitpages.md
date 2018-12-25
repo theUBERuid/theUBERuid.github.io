@@ -149,6 +149,7 @@ $ git push origin master
 {% endhighlight %}
 
 > [jekyll themes download 1](http://jekyllthemes.org/)
+
 > [jekyll themes download 2](http://themes.jekyllrc.org/)
 
 ## :earth_americas: GitHub를 이용한 블로그
