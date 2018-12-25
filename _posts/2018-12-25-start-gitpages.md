@@ -40,7 +40,7 @@ tags:   Git
 
 #### 최초 설정(필수)
 
-{% highlight sh %}
+{% highlight %}
 $ git config --global user.name 'user name'
 $ git config --global user.email 'user.email@example.com'
 {% endhighlight %}
@@ -79,7 +79,7 @@ $ git config --global user.email 'user.email@example.com'
 
 가장 기본적인 Jekyll 폴더 구조
 
-{% highlight sh %}
+{% highlight %}
 ├── _config.yml
 ├── _data
 |   └── members.yml
@@ -138,6 +138,14 @@ tags: Git
 - 내용 C
 
 [링크제목](https://링크주소.com/)
+{% endhighlight %}
+
+##### 4. github 전송
+
+{% highlight %}
+$ git add .
+$ git -m 'Add post'
+$ git push origin master
 {% endhighlight %}
 
 > [jekyll themes download](http://jekyllthemes.org/)
