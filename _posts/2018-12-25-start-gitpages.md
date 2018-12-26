@@ -2,7 +2,7 @@
 layout: post
 title:  git 블로그 시작하기
 date:   2018-12-25 20:00:00 +0900
-image:  github.png
+image:  github-logo.png
 tags:   Git
 ---
 
