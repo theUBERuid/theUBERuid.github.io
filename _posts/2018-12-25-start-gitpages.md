@@ -281,11 +281,6 @@ $ git config --global user.email 'jh.park@theuber.co.kr>'
     </table>
 </div>
 
-
-
-> [디렉토리 구조 | jekyll(ko)](https://jekyllrb-ko.github.io/docs/structure/)
-
-
 #### 포스팅하기
 
 ##### 1. 파일 생성
