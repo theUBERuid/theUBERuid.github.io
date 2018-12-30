@@ -284,8 +284,6 @@ $ git config --global user.email 'jh.park@theuber.co.kr>'
 > [디렉토리 구조 | jekyll(ko)](https://jekyllrb-ko.github.io/docs/structure/)
 
 
-
-
 #### 포스팅하기
 
 ##### 1. 파일 생성
@@ -305,7 +303,7 @@ date: 2018-12-25 20:00:00 +0900
 image: github.png
 tags: Git
 ---
-{% highlight markdown %}
+{% endhighlight %}
 
 ##### 3. 본문 작성
 
@@ -321,7 +319,7 @@ tags: Git
 - 내용 C
 
 [링크제목](https://링크주소.com/)
-{% highlight markdown %}
+{% endhighlight %}
 
 ##### 4. github서버에 전송
 
